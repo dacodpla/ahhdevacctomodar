@@ -1,0 +1,33 @@
+INTERNET 
+Dengan Kak Erlangga Siesta
+
+Internet terdiri atas 3 hal : (pembuatnya Tim Berners-lee)
+-HTTP (Hypertext Transfer Protocol)
+-HTML (Hypertext Markup Language)
+-URI (Uniform Resource Identifier)
+
+HTTP adalah cara suatu data dapat dikirim (request) dan didapat (respond)
+
+HTTP ada yang namanya Method
+
+Terdapat 4 Method, yaitu :
+-Get (dapetin data)
+-Post (mengirim data)
+-Put (mengupdate data)
+-Delete (menghapus data)
+
+SIKON = Situasi Kondisi
+
+Request selalu ada respond kecuali jika ada masalah dengan server
+
+Respond ada Status Code (2xx, 4xx, 5xx)
+
+Status Code 2xx menyatakan berhasil, 4xx menyatakan kesalahan user, 5xx menyatakan kesalahan server
+
+Contoh status code :
+-201 (Respond Success)
+-403 (Forbidden, tidak diperbolehkan mengakses karena tidak ada credential)
+-401 (Authorization, boleh mengakses, tetapi credential tidak valid)
+-404 (Site Not Found)
+-501 (Server Error)
+-503 (Service Unavailable)
