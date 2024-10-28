@@ -10,6 +10,17 @@ diinginkan. Verion Control dapat mendukung untuk berbagai jenis file.
 
 Fungsi echo adalah untuk mengembalikan text di terminal dan juga bisa mengirim teks kemana tau jika ditambahkan parameter
 
+git init untuk mengaktifkan file yang mau mengupload
+git add "nama file" untuk memilih scr spesifik file yang akan diupload
+git add . untuk memilih semua file di folder untuk di upload
+git commit untuk menambahkan "deskripsi" kpd file
+git config user.name/user.email untuk mengatur user email dan user name sesuai akun github.
+juga bisa ditambahkan parameter --global untuk mengesavenya dalam satu komputer selamanya
+git branch -M main untuk membuat/menyimpan semua folder dlm repo
+git remote add origin https://github.com/dacodpla/ahhdevacctomodar.git untuk melakukan reote dari device pribadi pada wazaaaaaaaaaa udh jam 8 coy
+git push -u origin main untuk mendorong/mengupload semua file yang sudah kita pilih (add) dan kita berikan deskripsi (commit) ke repo yang sudah
+di inisialisasi
+
 Tipe Version Control :
 
 ahhhh keceptan
